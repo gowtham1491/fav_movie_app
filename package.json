@@ -1,0 +1,22 @@
+{
+  "name": "movie-app",
+  "version": "1.0.0",
+  "description": "Favorite Movies & TV Shows App (HTML, CSS, JS, Node.js, MySQL)",
+  "main": "backend/server.js",
+  "type": "module",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "cors": "^2.8.5",
+    "express": "^4.21.1",
+    "mysql2": "^3.11.0",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "react-scripts": "^5.0.1"
+  }
+}
